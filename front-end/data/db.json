@@ -1,0 +1,32 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "category": "Mobile Phones",
+            "name": "Iphone 6s",
+            "company": "Apple",
+            "price": "$ 182"
+        },
+        {
+            "id": 2,
+            "category": "Laptops",
+            "name": "Apple MacBook Pro 2019 13",
+            "company": "Apple",
+            "price": "$ 300"
+        },
+        {
+            "id": 3,
+            "category": "Mobile Phones",
+            "name": "Samsung galaxy s7",
+            "company": "Samsung",
+            "price": "$ 150"
+        },
+        {
+            "id": 4,
+            "category": "Mobile Phones",
+            "name": "Poco X3 NFC",
+            "company": "Xiaomi",
+            "price": "$ 125"
+        }
+    ]
+}

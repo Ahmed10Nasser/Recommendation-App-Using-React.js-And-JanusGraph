@@ -1,0 +1,17 @@
+services:
+  frontend:
+    image: node:latest
+    command: sh -c "npm install && npm run start"
+    working_dir: /app
+    volumes:
+      - ./front-end:/app
+    ports:
+      - 3000:3000
+
+  janusgraph:
+    image: janusgraph/janusgraph
+    ports:
+      - 8182:8182
+    volumes:
+      - ./janusgraph/data:/var/lib/janusgraph/data
+      - ./janusgraph/gremlin-server.yaml:/opt/janusgraph/conf/gremlin-server/gremlin-server.yaml

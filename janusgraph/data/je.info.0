@@ -1,0 +1,12 @@
+2021-04-17 21:08:31.675 UTC INFO [/var/lib/janusgraph/data] JEErasure soft shutdown initiated.
+2021-04-17 21:08:31.676 UTC INFO [/var/lib/janusgraph/data] RepairReservedFiles-/var/lib/janusgraph/data soft shutdown initiated.
+2021-04-17 21:08:33.499 UTC INFO [/var/lib/janusgraph/data] JEErasure soft shutdown initiated.
+2021-04-17 21:08:33.500 UTC INFO [/var/lib/janusgraph/data] RepairReservedFiles-/var/lib/janusgraph/data soft shutdown initiated.
+2021-04-17 21:08:50.954 UTC INFO [/var/lib/janusgraph/data] JEErasure soft shutdown initiated.
+2021-04-17 21:08:50.955 UTC INFO [/var/lib/janusgraph/data] RepairReservedFiles-/var/lib/janusgraph/data soft shutdown initiated.
+2021-04-17 21:08:52.814 UTC INFO [/var/lib/janusgraph/data] JEErasure soft shutdown initiated.
+2021-04-17 21:08:52.816 UTC INFO [/var/lib/janusgraph/data] RepairReservedFiles-/var/lib/janusgraph/data soft shutdown initiated.
+2021-04-18 00:00:00.004 UTC INFO [/var/lib/janusgraph/data] Start verify of data files
+2021-04-18 00:00:00.412 UTC INFO [/var/lib/janusgraph/data] End verify of data files
+2021-04-18 00:00:00.412 UTC INFO [/var/lib/janusgraph/data] Start verify all databases
+2021-04-18 00:00:00.445 UTC INFO [/var/lib/janusgraph/data] End verify all databases

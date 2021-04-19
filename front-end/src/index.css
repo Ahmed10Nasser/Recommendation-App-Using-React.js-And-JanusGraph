@@ -1,0 +1,9 @@
+.jumbotron{
+  background: url('https://cdn1.vectorstock.com/i/1000x1000/76/75/technology-devices-seamless-pattern-background-vector-20407675.jpg') no-repeat center center;
+  background-size: cover;
+  max-height: 300px;
+}
+
+.custom-checkbox .form-check-input:checked~.form-check-label::before{
+  background-color:#17a2b8;
+}
