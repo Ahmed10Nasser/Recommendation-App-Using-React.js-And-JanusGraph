@@ -3,4 +3,6 @@ The idea of the project is a recommendation system for electronic devices. The u
 2.	Add maximum price to the search query.
 3.	Request some other devices similar to a selected item (same company).
 
-![image](https://user-images.githubusercontent.com/59056869/115268095-2d975680-a13a-11eb-8b34-ac0a3e5d3a77.png)
+![1](https://user-images.githubusercontent.com/59056869/115268377-7ea74a80-a13a-11eb-947e-efa657c72111.jpg)
+
+![4](https://user-images.githubusercontent.com/59056869/115268381-7fd87780-a13a-11eb-86fd-ad21a7274d3b.jpg)
